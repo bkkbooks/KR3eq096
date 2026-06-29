@@ -1,0 +1,57 @@
+canonical_identifier: bkk:krp/KR3eq096/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq096/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瘦吟醫贅
+  identifiers:
+    krp: KR3eq096
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq096.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq096_000-jc.yaml, hash: 'sha256:01a45e21321d7abda6d2a7bf71e9b9ef786f4aa84b0a494b662910a778d0f32e'}
+  - {seq: 1, filename: KR3eq096_001-jc.yaml, hash: 'sha256:536e43692f2bb8b573978fc56082ebe4e87bb576ecaba1021dda808a316bb415'}
+  - {seq: 3, filename: KR3eq096_003-jc.yaml, hash: 'sha256:02166ec6888df3993d379d3b254e3e47f6e1215fc766e3b15c0d777c1b9789f9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq096_000-jc.markers.yaml, hash: 'sha256:819ac7cb2cd9072902c1a1f7c84bc50e7e115b39f5d5ddc35a15ef980c8c7ad2'}
+  - {seq: 1, role: markers, filename: assets/KR3eq096_001-jc.markers.yaml, hash: 'sha256:c78f730c225de69b150c55d341bbea133bb6047167c548ee873fb71e40ec8e2b'}
+  - {seq: 3, role: markers, filename: assets/KR3eq096_003-jc.markers.yaml, hash: 'sha256:8a314516ab37c26ff847b178e50336d738abe1c37fd74457222aafc7ec992e29'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq096_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 69
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq096_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 9382
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq096_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 9933
+  label: 卷下
+  type: section
+  level: 1
+hash: sha256:30150b785b2bf68138b9b49303700f39fb69280970ed3a1133107345d2c04122

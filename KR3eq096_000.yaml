@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3eq096/jc/v1/juan/0
+seq: 0
+front:
+  text: 自序學道不成退而學藝雞窗燈火四十寒暑轉益茫然誠哉此事果難知也醫贅二卷聊述舊聞都無片段就正有道何啻一吷詅癡之誚所不免夫道光己亥重九日瘦吟自識
+  hash: sha256:d64e74f959361d32d5378e5b862261916d165de962df6198c8baad240128b553
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eq096_jc_000-d2.h1s1}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瘦吟醫贅
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq096.xml
+hash: sha256:01a45e21321d7abda6d2a7bf71e9b9ef786f4aa84b0a494b662910a778d0f32e
